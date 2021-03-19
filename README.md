@@ -3,7 +3,7 @@
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
     <li>Meu nome real é Raphael, mais conhecido como "Moment". :boy:</li>
-    <li>Nasci dia 17 de Março de 2000. :date:</li>
+    <li>Nasci dia 17 de Março de 2004. :date:</li>
     <li>Sou Desenvolvedor de Bots para Discord. :robot:</li>
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>

@@ -10,7 +10,7 @@
 <a href="https://discord.gg/6yZVATFvfY"><img src="https://img.shields.io/discord/816433178612989963?color=7289da&logo=discord&logoColor=white" alt="Yuno 者" /></a> 
 <a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
 <a href="https://twitter.com/momentyzx"><img src="https://twitter.com/momentyzx" alt="tiagoinsany" /></a>
-<a href="https://discord.com/users/568182075929395210"><img src="https://img.shields.io/badge/-@Moment%239903-8b0000?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/568182075929395210"><img src="https://img.shields.io/badge/-@Moment%230001-8b0000?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
 <h3 align="left">:computer: <b>|</b> Conecções Atuais:</h3>
 <p align="left">
